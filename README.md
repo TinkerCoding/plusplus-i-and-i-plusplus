@@ -8,8 +8,8 @@ j = ++i
 
 i++ will increment the value of i, but return the original value that i held before being incremented
 
-i = 1; /
-j = i++; /
+i = 1; 
+j = i++; 
 (i is 2, j is 1)
 
 
